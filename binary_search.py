@@ -43,4 +43,4 @@ def condition_binary_search(arr):
             L=M+1
     return L
 
-print(condition_binary_search(B))
+print(condition_binary_search(B),"Hello")
